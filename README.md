@@ -1,4 +1,4 @@
-# DeepWeedsINIA1
+# DeepWeedsINIA Nr1 
 Dataset included in the publication 
 "Testing Deep Learning models to classify broadleaf weed seedlings in two contrasting environments
 Lorenzo León, Cristóbal Campos, Juan Hirzel 
